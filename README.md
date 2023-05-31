@@ -1,4 +1,4 @@
-# DCESumm
+# A sentence is known by the company it keeps: Improving Legal Document Summarization using Deep Clustering
 This repository contains the implementation of our proposed DCESumm approach that is published in Artificial Intelligence and Law journal [SCIE, IF: 2.723]
 
 # DCESumm Approach:
